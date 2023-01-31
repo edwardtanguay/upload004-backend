@@ -1,3 +1,25 @@
 {
-  "fileItems": []
+  "fileItems": [
+    {
+      "title": "JSON file",
+      "description": "",
+      "notes": "",
+      "fileName": "test.json",
+      "iconPathAndFileName": "images/general/iconJson.png"
+    },
+    {
+      "title": "lake",
+      "description": "",
+      "notes": "",
+      "fileName": "lake.jpg",
+      "iconPathAndFileName": "uploadedFiles/lake.jpg"
+    },
+    {
+      "title": "screenshot",
+      "description": "ddd",
+      "notes": "nnn",
+      "fileName": "screenshot.jpg",
+      "iconPathAndFileName": "uploadedFiles/screenshot.jpg"
+    }
+  ]
 }
