@@ -13,6 +13,13 @@
       "notes": "can be output as csv file",
       "fileName": "scores.xlsx",
       "iconPathAndFileName": "images/general/iconExcel.png"
+    },
+    {
+      "title": "List of guests",
+      "description": "For December party",
+      "notes": "Subject to change",
+      "fileName": "test.txt",
+      "iconPathAndFileName": "images/general/iconText.png"
     }
   ]
 }
