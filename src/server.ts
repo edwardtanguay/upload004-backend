@@ -9,7 +9,8 @@ import { fileURLToPath } from 'url';
 import { Low, JSONFile } from 'lowdb'; // database
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const dbFile = join(__dirname, '/data/db.json');
+console.log(__dirname)
+const dbFile = join(__dirname, '../src/data/db.json');
 const adapter = new JSONFile(dbFile);
 const db = new Low(adapter);
 
