@@ -1,3 +1,18 @@
 {
-  "fileItems": []
+  "fileItems": [
+    {
+      "title": "Flughafensee",
+      "description": "North of the former Tegel airport",
+      "notes": "taken during run 2022",
+      "fileName": "lake.jpg",
+      "iconPathAndFileName": "uploadedFiles/lake.jpg"
+    },
+    {
+      "title": "Scores",
+      "description": "class scores from last test",
+      "notes": "can be output as csv file",
+      "fileName": "scores.xlsx",
+      "iconPathAndFileName": "images/general/iconExcel.png"
+    }
+  ]
 }
